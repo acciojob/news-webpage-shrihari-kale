@@ -48,6 +48,9 @@ body {
     flex-direction: column;
     background: white;
 	border-radius:10px;
+	text-align: center;
+    width: 200px;
+
 }
 
 .pictorial-news-section img {
